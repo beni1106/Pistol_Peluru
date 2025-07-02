@@ -1,0 +1,8 @@
+C:\My Project\DorTembak\DorTembak\bin\Debug\DorTembak.exe.config
+C:\My Project\DorTembak\DorTembak\bin\Debug\DorTembak.exe
+C:\My Project\DorTembak\DorTembak\bin\Debug\DorTembak.pdb
+C:\My Project\DorTembak\DorTembak\obj\Debug\DorTembak.csproj.AssemblyReference.cache
+C:\My Project\DorTembak\DorTembak\obj\Debug\DorTembak.csproj.CoreCompileInputs.cache
+C:\My Project\DorTembak\DorTembak\obj\Debug\DorTembak.exe
+C:\My Project\DorTembak\DorTembak\obj\Debug\DorTembak.pdb
+C:\My Project\DorTembak\DorTembak\obj\Debug\DorTembak.exe.config
